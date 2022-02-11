@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ##Hi! I'm yunji 🤚
+  ## Hi! I'm yunji 🤚
   <br><br><br>
   
   🛠 Tech Stack 🛠
