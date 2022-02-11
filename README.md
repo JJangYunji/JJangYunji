@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <div align=center>
   
   ### Hi! I'm yunji 🤚
+  <br>
+  ### I'm going to be an amazing developer !!
   <br><br>
   
   ## 🛠 Tech Stack 🛠
