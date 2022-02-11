@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ### Hi! I'm yunji 🤚
-  <br><br><br>
+  # Hi! I'm yunji 🤚
+  <br><br>
   
   ## 🛠 Tech Stack 🛠
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage)
