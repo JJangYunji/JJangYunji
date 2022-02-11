@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <br><br><br>
   
   ##  😁 Me 😁
-  [![Tech Blog](https://img.shields.io/badge/Blog-9999FF?style=flat-square&logo=blogger&logoColor=white)]()
+  [![Tech Blog](https://img.shields.io/badge/Blog-7E4DD2?style=flat-square&logo=blogger&logoColor=white)]()
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sshzi216@gmail.com)
