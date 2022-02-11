@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   ### Hi! I'm yunji 🤚
   <br>
   ### I'm going to be an amazing developer !!
-  <br><br>
+  <br><br><br>
   
   ## 🛠 Tech Stack 🛠
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage)
