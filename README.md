@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)
   <br>
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)
+  [![Slack](https://img.shields.io/badge/Slack-A9225C?style=flat-square&logo=Slack&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)
   <br><br><br>
   
   ## 😁 Me 😁
