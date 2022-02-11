@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   
   ### Hi! I'm yunji 🤚
   ### I'm going to be an amazing developer !!
-  <br><br><br>
-  
+  <br><br>
   ## 🛠 Tech Stack 🛠
   [![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage)
   [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Joowon0220/fullPage)
